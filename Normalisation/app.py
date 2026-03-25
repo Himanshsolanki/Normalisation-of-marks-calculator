@@ -20,6 +20,8 @@ if max_val > min_val :
 else :
     st.error("maximum marks cannot be less than minimum")
 
+st.write("Created by Himansh Solanki")
+
 
 
 
